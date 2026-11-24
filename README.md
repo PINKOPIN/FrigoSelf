@@ -1,6 +1,6 @@
-# FrigoSelf — Meno sprechi, più libertà
+# FrigoSelf — Il tuo cibo, sotto controllo
 
-App Flutter (Android e iOS) per gestire frigo, congelatore e dispensa di famiglia
+App Flutter (Android e iOS) per gestire frigo, congelatore e dispensa di tutta la famiglia
 e ricevere avvisi prima che gli alimenti scadano.
 
 Usa **Supabase** (il tuo progetto gratuito, guida in `supabase/SETUP_SUPABASE.md`):
